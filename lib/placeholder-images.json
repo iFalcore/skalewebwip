@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "cryptoblades",
+      "description": "CryptoBlades logo",
+      "imageUrl": "https://images.unsplash.com/photo-1576020111958-bff2cf17226d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzd29yZCUyMGxvZ298ZW58MHx8fHwxNzYzNDE0MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sword logo"
+    },
+    {
+      "id": "exorde",
+      "description": "Exorde logo",
+      "imageUrl": "https://images.unsplash.com/photo-1744390166851-82056c6552d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YWJzdHJhY3QlMjBsb2dvfGVufDB8fHx8MTc2MzM3MDgwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract logo"
+    },
+    {
+      "id": "strayshot",
+      "description": "StrayShot logo",
+      "imageUrl": "https://images.unsplash.com/photo-1585501955836-3902cced305d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxza3VsbCUyMGxvZ298ZW58MHx8fHwxNzYzMzc5MDM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "skull logo"
+    },
+    {
+      "id": "blockworks",
+      "description": "Blockworks report cover",
+      "imageUrl": "https://images.unsplash.com/photo-1611473444578-f0c395db4a65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZXBvcnQlMjBjb3ZlcnxlbnwwfHx8fDE3NjMzNTEwOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "report cover"
+    },
+    {
+      "id": "messari",
+      "description": "Messari report cover",
+      "imageUrl": "https://images.unsplash.com/photo-1688384452844-8364c3e2fc28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyZXBvcnQlMjBjb3ZlcnxlbnwwfHx8fDE3NjMzNTEwOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "report cover"
+    },
+    {
+      "id": "dappradar",
+      "description": "DappRadar report cover",
+      "imageUrl": "https://images.unsplash.com/photo-1627368021867-a9c3b1d85453?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyZXBvcnQlMjBjb3ZlcnxlbnwwfHx8fDE3NjMzNTEwOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "report cover"
+    },
+    {
+      "id": "coingecko",
+      "description": "CoinGecko report cover",
+      "imageUrl": "https://images.unsplash.com/photo-1612969308146-066d55f37ccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyZXBvcnQlMjBjb3ZlcnxlbnwwfHx8fDE3NjMzNTEwOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "report cover"
+    },
+    {
+      "id": "skale-q2-2024",
+      "description": "SKALE Q2 2024 report cover",
+      "imageUrl": "https://images.unsplash.com/photo-1651341508318-39601132a85e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyZXBvcnQlMjBjb3ZlcnxlbnwwfHx8fDE3NjMzNTEwOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "report cover"
+    },
+    {
+      "id": "zk-rollup-deep-dive",
+      "description": "ZK Rollup deep dive report cover",
+      "imageUrl": "https://images.unsplash.com/photo-1627368021867-a9c3b1d85453?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyZXBvcnQlMjBjb3ZlcnxlbnwwfHx8fDE3NjMzNTEwOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "report cover"
+    },
+    {
+      "id": "interchain-messaging",
+      "description": "Interchain messaging report cover",
+      "imageUrl": "https://images.unsplash.com/photo-1611473444663-dcd81eb16e66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyZXBvcnQlMjBjb3ZlcnxlbnwwfHx8fDE3NjMzNTEwOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "report cover"
+    },
+    {
+      "id": "gas-free-economics",
+      "description": "Gas-free economics report cover",
+      "imageUrl": "https://images.unsplash.com/photo-1612969308146-066d55f37ccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyZXBvcnQlMjBjb3ZlcnxlbnwwfHx8fDE3NjMzNTEwOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "report cover"
+    }
+  ]
+}
