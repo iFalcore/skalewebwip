@@ -1,0 +1,290 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/about",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/access-denied",
+      "destination": "/404",
+      "permanent": false
+    },
+    {
+      "source": "/blog",
+      "destination": "https://blog.skale.space/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/:path*",
+      "destination": "https://blog.skale.space/blog/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/base",
+      "destination": "https://blog.skale.space/base",
+      "permanent": false
+    },
+    {
+      "source": "/network/cbstudy",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/cla-txt",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/community",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network/dartmouth",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network/dartmouthanalysis",
+      "destination": "/404",
+      "permanent": false
+    },
+    {
+      "source": "/network/defi",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network/defi/dex",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network/enterprise",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network/exordestudy",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network/generalpage",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network/hide",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network/defi/lending",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/log-in",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/network/defi/perpdex",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/privacy",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/reset-password",
+      "destination": "/404",
+      "permanent": false
+    },
+    {
+      "source": "/search",
+      "destination": "/404",
+      "permanent": false
+    },
+    {
+      "source": "/security",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sign-up",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network/skaleconnect",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/testprimer",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tokenomics",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/update-password",
+      "destination": "/404",
+      "permanent": false
+    },
+    {
+      "source": "/user-account",
+      "destination": "/404",
+      "permanent": false
+    },
+    {
+      "source": "/validator-economics",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network/gaming",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/skale-gdc-grant",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network/ai",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network/a-guide-to-skl-staking",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/network/how-to-bridge-from-ethereum-mainnet-to-skale-europa-hub",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/research",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/get-started-on-skale",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/skale-glossary-wiki",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/skale-indie-games-accelerator",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/5e4638532e55db0038486bea",
+      "destination": "https://blog.skale.space/tags/5e4638532e55db0038486bea",
+      "permanent": true
+    },
+    {
+      "source": "/tags/5e6685c09a9e31003827636e",
+      "destination": "https://blog.skale.space/tags/5e6685c09a9e31003827636e",
+      "permanent": true
+    },
+    {
+      "source": "/tags/5e6685f79a9e310038276378",
+      "destination": "https://blog.skale.space/tags/5e6685f79a9e310038276378",
+      "permanent": true
+    },
+    {
+      "source": "/tags/5e6686069a9e31003827637c",
+      "destination": "https://blog.skale.space/tags/5e6686069a9e31003827637c",
+      "permanent": true
+    },
+    {
+      "source": "/tags/5e70a24a9a9e31003827639b",
+      "destination": "https://blog.skale.space/tags/5e70a24a9a9e31003827639b",
+      "permanent": true
+    },
+    {
+      "source": "/tags/5e70a3fd9a9e3100382763a4",
+      "destination": "https://blog.skale.space/tags/5e70a3fd9a9e3100382763a4",
+      "permanent": true
+    },
+    {
+      "source": "/tags/5ec358f0fb30280045774a48",
+      "destination": "https://blog.skale.space/tags/5ec358f0fb30280045774a48",
+      "permanent": true
+    },
+    {
+      "source": "/tags/606c8b2371ed75003b6f7d8d",
+      "destination": "https://blog.skale.space/tags/606c8b2371ed75003b6f7d8d",
+      "permanent": true
+    },
+    {
+      "source": "/tags/6081655de5f95c003b3c2f62",
+      "destination": "https://blog.skale.space/tags/6081655de5f95c003b3c2f62",
+      "permanent": true
+    },
+    {
+      "source": "/tags/announcements",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/community",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/developers",
+      "destination": "/developers",
+      "permanent": true
+    },
+    {
+      "source": "/tags/ecosystem",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/fair",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/technology",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tags/video-library",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/whitepaper",
+      "destination": "/whitepaper.pdf",
+      "permanent": true
+    }
+  ]
+}
